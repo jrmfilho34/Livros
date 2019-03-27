@@ -1,4 +1,4 @@
-# To-Do App
+# LIVROS
 Aplicação "Livros"
 
 - **Livros**: Form, List (CRUD)
@@ -11,18 +11,18 @@ Aplicação "Livros"
 git clone https://github.com/jrmfilho34/Livros.git
 ```
 
-## Backend
+## Backend - PHP
 ```bash
 php
 
 ```
 
-## Frontend - Angular
+## Frontend - VUE
 ```bash
 # vue.js
 ```
 
-## Frontend - Progressive (Ionic2)
+## Frontend - Bootstrap
 ```bash
 #Bootstrap
 ```
